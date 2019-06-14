@@ -1,0 +1,25 @@
+{
+  "name": "@scottsloane/strreplace",
+  "version": "1.0.0",
+  "description": "String Replace Library for Node",
+  "main": "strreplace.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottsloane/strreplace.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "String",
+    "Replace"
+  ],
+  "author": "Scott Sloane",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/scottsloane/strreplace/issues"
+  },
+  "homepage": "https://github.com/scottsloane/strreplace#readme"
+}
