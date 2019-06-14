@@ -1,6 +1,6 @@
 {
   "name": "@scottsloane/strreplace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String Replace Library for Node",
   "main": "strreplace.js",
   "scripts": {
